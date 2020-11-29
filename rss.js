@@ -42,7 +42,7 @@ module.exports = async (
       // url final del sitio de anuncios para esta entrada
       const siteURl = new URL(site);
       siteURl.searchParams.append('title', datatitle);
-      siteURl.searchParams.append('date', date);
+      // siteURl.searchParams.append('date', date);
 
       // obtener url de la entrada , en caso de que sea uan fuente de
       // google obtener la url de la entrada del parametro url
@@ -53,14 +53,11 @@ module.exports = async (
         ? linkURL.searchParams.get(urlParam)
         : decodedLink;
 
-      console.log({ link, decodedLink, linkURL });
+      // console.log({ link, decodedLink });
       siteURl.searchParams.append('url', entryURL); // search = `url=${page}`;
-
 
       const result = {
         title: datatitle,
-        description: datadescription,
-        link: siteURl.href,
         date,
       };
 
@@ -70,13 +67,17 @@ module.exports = async (
       }
 
       // reescribir las url de los ahref
-      // const $ = cheerio.load(datadescription);
-      // $('a').toArray().forEach((ele) => {
-      //   const $$ = $(ele);
-      //   const href = $$.attr('href');
-      //   $$.attr('href');
-      // });
+      const $ = cheerio.load(datadescription, { xmlMode: true });
+      $('a').toArray().forEach((ele) => {
+        const $$ = $(ele);
+        const href = $$.attr('href');
+        const customURL = new URL(siteURl.href);
+        customURL.searchParams.set('url', href);
+        $$.attr('href', customURL.href);
+      });
 
+      result.description = $.html();
+      result.link = siteURl.href;
       return Promise.resolve(feed.addItem(result));
     },
   );
