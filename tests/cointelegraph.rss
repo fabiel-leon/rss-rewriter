@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:atom="http://www.w3.org/2005/Atom" 
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/" 
+    xmlns:media="http://search.yahoo.com/mrss/">
+
+    <channel>
+        <title>Cointelegraph.com News</title>
+
+        <atom:link href="https://cointelegraph.com/rss" rel="self" type="application/rss+xml" />
+
+        <link>https://cointelegraph.com</link>
+        <description>Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest news and analyses on the future of money.</description>
+        <generator>cointelegraph.com</generator>
+        <lastBuildDate>Wed, 11 Mar 2020 01:27:08 +0000</lastBuildDate>
+        <language>en-US</language>
+        <sy:updatePeriod>hourly</sy:updatePeriod>
+        <sy:updateFrequency>1</sy:updateFrequency>
+
+        <image>
+            <title>Cointelegraph.com News</title>
+            <link>https://cointelegraph.com</link>
+            <url>https://cointelegraph.com/assets/img/CT_Logo_YG_tag.png</url>
+            <description>Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest news and analyses on the future of money.</description>
+        </image>
+
+
+        <item>
+            <title><![CDATA[What Is a ‘Circuit Breaker’ and Why Do Exchanges Need Them?]]></title>
+            <link>https://cointelegraph.com/news/what-is-a-circuit-breaker-and-why-do-exchanges-need-them</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84ZTc4NmY5ZGQ2YzBmNzY3OWUwMzAwNDMxYTZkM2U3ZS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84ZTc4NmY5ZGQ2YzBmNzY3OWUwMzAwNDMxYTZkM2U3ZS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Wed, 11 Mar 2020 01:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Michael Kapilkov]]>
+            </dc:creator>
+            <category><![CDATA[Blockchain]]></category>
+            <category><![CDATA[Trading]]></category>
+            <category><![CDATA[Exchanges]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/what-is-a-circuit-breaker-and-why-do-exchanges-need-them</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84ZTc4NmY5ZGQ2YzBmNzY3OWUwMzAwNDMxYTZkM2U3ZS5qcGc=.jpg"><p>Should crypto exchanges follow the lead of traditional exchanges and use circuit breakers to curb panic selling?</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[When Will Bitcoin Join the DeFi Revolution?]]></title>
+            <link>https://cointelegraph.com/news/when-will-bitcoin-join-the-defi-revolution</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81NDRmYWVhY2E5OTAwOTVkMjFkNGMwZGQ3OWE0MjhhMC5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81NDRmYWVhY2E5OTAwOTVkMjFkNGMwZGQ3OWE0MjhhMC5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Wed, 11 Mar 2020 01:00:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Ruaridh O’Donnell]]>
+            </dc:creator>
+            <category><![CDATA[Bitcoin]]></category>
+            <category><![CDATA[Cryptocurrencies]]></category>
+            <category><![CDATA[Blockchain]]></category>
+            <category><![CDATA[DeFi]]></category>
+            <category><![CDATA[Adoption]]></category>
+            <category><![CDATA[KYC]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/when-will-bitcoin-join-the-defi-revolution</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81NDRmYWVhY2E5OTAwOTVkMjFkNGMwZGQ3OWE0MjhhMC5qcGc=.jpg"><p>The DeFi industry is decentralized by its original nature, yet Bitcoin has reportedly been claimed to have implemented centralized features. It’s time to start from the original idea again</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Better Business Bureau: Crypto Scams Are The Second Riskiest in North America]]></title>
+            <link>https://cointelegraph.com/news/better-business-bureau-crypto-scams-are-the-second-riskiest-in-north-america</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mMGMwNmQ2YWY1YTE0Y2Y3YTY1NjE1YzJjYzIyOWVlYS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mMGMwNmQ2YWY1YTE0Y2Y3YTY1NjE1YzJjYzIyOWVlYS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 22:17:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Felipe Erazo]]>
+            </dc:creator>
+            <category><![CDATA[Blockchain]]></category>
+            <category><![CDATA[Scams]]></category>
+            <category><![CDATA[Cryptocurrencies]]></category>
+            <category><![CDATA[Hackers]]></category>
+            <category><![CDATA[Fraud]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/better-business-bureau-crypto-scams-are-the-second-riskiest-in-north-america</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mMGMwNmQ2YWY1YTE0Y2Y3YTY1NjE1YzJjYzIyOWVlYS5qcGc=.jpg"><p>A US-based trust-gauging company claims that cryptocurrency scams represented a sharp increase during 2019</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Huobi Releases New Mobile App for Crypto Trading]]></title>
+            <link>https://cointelegraph.com/news/huobi-releases-new-mobile-app-for-crypto-trading</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNTM5NDllZTQwNzk4ZTc5MGYyNjU3M2U3ZmU5Njg5ZS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNTM5NDllZTQwNzk4ZTc5MGYyNjU3M2U3ZmU5Njg5ZS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 21:54:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Felipe Erazo]]>
+            </dc:creator>
+            <category><![CDATA[Bitcoin]]></category>
+            <category><![CDATA[Cryptocurrency Exchange]]></category>
+            <category><![CDATA[Cryptocurrencies]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/huobi-releases-new-mobile-app-for-crypto-trading</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNTM5NDllZTQwNzk4ZTc5MGYyNjU3M2U3ZmU5Njg5ZS5qcGc=.jpg"><p>Huobi Group is introducing an app for Android and iOS to trade cryptos</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Federal Reserve Injects $168B, Greater Than Entire BTC Market Cap]]></title>
+            <link>https://cointelegraph.com/news/federal-reserve-injects-168b-greater-than-entire-btc-market-cap</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wZDI4NTFhNzZlNThkZDkwZjY1MmQ4OTMxY2I5ZjUwMy5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wZDI4NTFhNzZlNThkZDkwZjY1MmQ4OTMxY2I5ZjUwMy5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 21:50:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Benjamin Pirus]]>
+            </dc:creator>
+            <category><![CDATA[Bitcoin]]></category>
+            <category><![CDATA[United States]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/federal-reserve-injects-168b-greater-than-entire-btc-market-cap</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wZDI4NTFhNzZlNThkZDkwZjY1MmQ4OTMxY2I5ZjUwMy5qcGc=.jpg"><p>The Fed adds $168 billion into the financial system, making Bitcoin’s market cap look small</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin’s Plunge Due to Traditional Markets Falling or PlusToken Dumping?]]></title>
+            <link>https://cointelegraph.com/news/bitcoins-plunge-due-to-traditional-markets-falling-or-plustoken-dumping</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83NWQwMmMzNDg3MmQ2MmJlZjk5ZWUwYzE4YmM3MTMyNS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83NWQwMmMzNDg3MmQ2MmJlZjk5ZWUwYzE4YmM3MTMyNS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 21:24:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Benjamin Pirus]]>
+            </dc:creator>
+            <category><![CDATA[Bitcoin]]></category>
+            <category><![CDATA[Mainstream]]></category>
+            <category><![CDATA[Scams]]></category>
+            <category><![CDATA[Cryptocurrencies]]></category>
+            <category><![CDATA[Ponzi Scheme]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/bitcoins-plunge-due-to-traditional-markets-falling-or-plustoken-dumping</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83NWQwMmMzNDg3MmQ2MmJlZjk5ZWUwYzE4YmM3MTMyNS5qcGc=.jpg"><p>Experts weigh in on Bitcoin’s falling price — is it due to traditional markets falling, or alleged PlusToken scam  selling?</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[YouTube Continues Crypto Ban]]></title>
+            <link>https://cointelegraph.com/news/youtube-continues-crypto-ban</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lOWMzZDkzZDBiOTM1MGRlMGVmZDhjNTliYzFkZDQ3Yi5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lOWMzZDkzZDBiOTM1MGRlMGVmZDhjNTliYzFkZDQ3Yi5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 21:15:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Benjamin Pirus]]>
+            </dc:creator>
+            <category><![CDATA[Blockchain]]></category>
+            <category><![CDATA[YouTube]]></category>
+            <category><![CDATA[Censorship]]></category>
+            <category><![CDATA[Cryptocurrencies]]></category>
+            <category><![CDATA[Google]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/youtube-continues-crypto-ban</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lOWMzZDkzZDBiOTM1MGRlMGVmZDhjNTliYzFkZDQ3Yi5qcGc=.jpg"><p>The YouTube crypto video bans are back as Ivan on Tech and The Moon are hit again</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Payment Giant Alipay Steps Up Game to Expand Beyond Payments]]></title>
+            <link>https://cointelegraph.com/news/payment-giant-alipay-steps-up-game-to-expand-beyond-payments</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zMzM4NTNhOGY2ZjU5YzFmZWU5MDA2MDUzMzIxODA3Ni5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zMzM4NTNhOGY2ZjU5YzFmZWU5MDA2MDUzMzIxODA3Ni5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 20:58:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Ting Peng]]>
+            </dc:creator>
+            <category><![CDATA[Blockchain]]></category>
+            <category><![CDATA[Alipay]]></category>
+            <category><![CDATA[China]]></category>
+            <category><![CDATA[Payments]]></category>
+            <category><![CDATA[WeChat]]></category>
+            <category><![CDATA[Jack Ma]]></category>
+            <category><![CDATA[Coronavirus]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/payment-giant-alipay-steps-up-game-to-expand-beyond-payments</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zMzM4NTNhOGY2ZjU5YzFmZWU5MDA2MDUzMzIxODA3Ni5qcGc=.jpg"><p>Payment giant Alipay looks to lure 44 million merchants to expand beyond payments</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Global Blockchain IoT Market to Grow at a CAGR of 91.5% by 2026]]></title>
+            <link>https://cointelegraph.com/news/global-blockchain-iot-market-to-grow-at-a-cagr-of-915-by-2026</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lNjRlYTNiOTMxOTQ0MTM4ZGJlMzVlNmU0YzI5MGYyZS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lNjRlYTNiOTMxOTQ0MTM4ZGJlMzVlNmU0YzI5MGYyZS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 20:36:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Felipe Erazo]]>
+            </dc:creator>
+            <category><![CDATA[Blockchain]]></category>
+            <category><![CDATA[Adoption]]></category>
+            <category><![CDATA[Predictions]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/global-blockchain-iot-market-to-grow-at-a-cagr-of-915-by-2026</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lNjRlYTNiOTMxOTQ0MTM4ZGJlMzVlNmU0YzI5MGYyZS5qcGc=.jpg"><p>Research suggests that the market for blockchain in Internet-of-Things applications could witness a major boost by 2026</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Japan's Financial Regulator Launches Global Blockchain Governance Initiate]]></title>
+            <link>https://cointelegraph.com/news/japans-financial-regulator-launches-global-blockchain-governance-initiate</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83Mjk1MTRkODAyYzI1YzM0YWFkZmI4YjUxOTEwYTcwZS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83Mjk1MTRkODAyYzI1YzM0YWFkZmI4YjUxOTEwYTcwZS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 20:32:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Samuel Haig]]>
+            </dc:creator>
+            <category><![CDATA[Blockchain]]></category>
+            <category><![CDATA[Japan]]></category>
+            <category><![CDATA[FSA]]></category>
+            <category><![CDATA[Regulation]]></category>
+            <category><![CDATA[Government]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/japans-financial-regulator-launches-global-blockchain-governance-initiate</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83Mjk1MTRkODAyYzI1YzM0YWFkZmI4YjUxOTEwYTcwZS5qcGc=.jpg"><p>The Blockchain Governance Initiate seeks to provide an open platform for dialogue between regulators and cryptocurrency stakeholders in Japan</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Unibright to Pilot Blockchain-Based Renewable Energy Trading in Germany]]></title>
+            <link>https://cointelegraph.com/news/unibright-to-pilot-blockchain-based-renewable-energy-trading-in-germany</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MTQxZWUwOGIyZTQwYWY5MjZlNTIwNTM1YTAwYzk2NS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MTQxZWUwOGIyZTQwYWY5MjZlNTIwNTM1YTAwYzk2NS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 20:01:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Samuel Haig]]>
+            </dc:creator>
+            <category><![CDATA[Blockchain]]></category>
+            <category><![CDATA[Germany]]></category>
+            <category><![CDATA[Electricity]]></category>
+            <category><![CDATA[Energy]]></category>
+            <category><![CDATA[Ethereum]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/unibright-to-pilot-blockchain-based-renewable-energy-trading-in-germany</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MTQxZWUwOGIyZTQwYWY5MjZlNTIwNTM1YTAwYzk2NS5qcGc=.jpg"><p>Unibright will provide its technology to Wasserkraft Mittelrhein in the roll-out of its “power-buoy” project</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Ivan on Tech Clashes With Richard Heart in Latest Cointelegraph Crypto Duel]]></title>
+            <link>https://cointelegraph.com/news/ivan-on-tech-clash-with-richard-heart-in-latest-cointelegraph-crypto-duel</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYWNiODBhMTMxOWVkOGY4ODc5NTk2OTkzYWY2MmY2Yy5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYWNiODBhMTMxOWVkOGY4ODc5NTk2OTkzYWY2MmY2Yy5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 19:28:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Cointelegraph]]>
+            </dc:creator>
+            <category><![CDATA[Bitcoin]]></category>
+            <category><![CDATA[Cryptocurrencies]]></category>
+            <category><![CDATA[Scams]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/ivan-on-tech-clash-with-richard-heart-in-latest-cointelegraph-crypto-duel</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kYWNiODBhMTMxOWVkOGY4ODc5NTk2OTkzYWY2MmY2Yy5qcGc=.jpg"><p>Ivan On Tech and Richard Heart face each other in Cointelegraph latest crypto duel</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Below $8,000 Again — Will Bulls Buy the Dip This Time?]]></title>
+            <link>https://cointelegraph.com/news/bitcoin-price-below-8-000-again-will-bulls-buy-the-dip-this-time</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iY2E1OTY2ODUxMmExY2YzNjcyMWU5MWRmZGU3OTkyMi5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iY2E1OTY2ODUxMmExY2YzNjcyMWU5MWRmZGU3OTkyMi5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 19:08:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Horus Hughes]]>
+            </dc:creator>
+            <category><![CDATA[Bitcoin]]></category>
+            <category><![CDATA[Bitcoin Price]]></category>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Market Update]]></category>
+            <category><![CDATA[Coronavirus]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/bitcoin-price-below-8-000-again-will-bulls-buy-the-dip-this-time</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iY2E1OTY2ODUxMmExY2YzNjcyMWU5MWRmZGU3OTkyMi5qcGc=.jpg"><p>Bitcoin price rejected at $8,149 as global markets fell and the number of people infected with Coronavirus rose in Europe and the United States</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[How the Steem Saga Exposes the Dangers of Staking Pools]]></title>
+            <link>https://cointelegraph.com/news/how-the-steem-saga-exposes-the-dangers-of-staking-pools</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNTM3MGYwMWZlM2IzOGRlZjliMmJiZmIxMzEyZmI3Ny5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNTM3MGYwMWZlM2IzOGRlZjliMmJiZmIxMzEyZmI3Ny5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 18:44:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Lior Yaffe]]>
+            </dc:creator>
+            <category><![CDATA[Altcoin]]></category>
+            <category><![CDATA[Cryptocurrencies]]></category>
+            <category><![CDATA[Blockchain]]></category>
+            <category><![CDATA[Steem]]></category>
+            <category><![CDATA[Tron]]></category>
+            <category><![CDATA[Justin Sun]]></category>
+            <category><![CDATA[Binance]]></category>
+            <category><![CDATA[Huobi]]></category>
+            <category><![CDATA[Poloniex]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/how-the-steem-saga-exposes-the-dangers-of-staking-pools</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNTM3MGYwMWZlM2IzOGRlZjliMmJiZmIxMzEyZmI3Ny5qcGc=.jpg"><p>Justin Sun played by the rules of the system, maybe the problem lies within the system itself?</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Brave’s BAT Rewards Can Now be Redeemed at Amazon, Apple and Netflix]]></title>
+            <link>https://cointelegraph.com/news/braves-bat-rewards-can-now-be-redeemed-at-amazon-apple-and-netflix</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNjQyMGJjY2I1M2E5MTY5NmZlNzlmMTFiNzYzZjRiNS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNjQyMGJjY2I1M2E5MTY5NmZlNzlmMTFiNzYzZjRiNS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 18:39:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Michael Kapilkov]]>
+            </dc:creator>
+            <category><![CDATA[Technology]]></category>
+            <category><![CDATA[Brave]]></category>
+            <category><![CDATA[Adoption]]></category>
+            <category><![CDATA[Amazon]]></category>
+            <category><![CDATA[Apple]]></category>
+            <category><![CDATA[Privacy]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/braves-bat-rewards-can-now-be-redeemed-at-amazon-apple-and-netflix</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hNjQyMGJjY2I1M2E5MTY5NmZlNzlmMTFiNzYzZjRiNS5qcGc=.jpg"><p>Brave partners with TAP Network. Now you can redeem BATs for rewards from 250,000 brands including Amazon, Apple and Netflix</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Forbes Report: World’s Top 10 Billionaires Lost $38B on Black Monday]]></title>
+            <link>https://cointelegraph.com/news/forbes-report-worlds-top-10-billionaires-lost-38b-on-black-monday</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MmZiNmMzNmQzY2Q5ZGQ5MmY4MTU5YTEyMjRlODVhNi5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MmZiNmMzNmQzY2Q5ZGQ5MmY4MTU5YTEyMjRlODVhNi5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 18:35:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Helen Partz]]>
+            </dc:creator>
+            <category><![CDATA[Business]]></category>
+            <category><![CDATA[Forbes]]></category>
+            <category><![CDATA[Trading]]></category>
+            <category><![CDATA[Shares]]></category>
+            <category><![CDATA[Stocks]]></category>
+            <category><![CDATA[Stock Market]]></category>
+            <category><![CDATA[Coronavirus]]></category>
+            <category><![CDATA[Facebook]]></category>
+            <category><![CDATA[Mark Zuckerberg]]></category>
+            <category><![CDATA[Bill Gates]]></category>
+            <category><![CDATA[United States]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/forbes-report-worlds-top-10-billionaires-lost-38b-on-black-monday</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MmZiNmMzNmQzY2Q5ZGQ5MmY4MTU5YTEyMjRlODVhNi5qcGc=.jpg"><p>The world’s top 10 billionaires including Facebook CEO lost a combined $38 billion on Black Monday, according to Forbes</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Exclusive: A Major French Bank Is Blocking Customers From Using Coinbase]]></title>
+            <link>https://cointelegraph.com/news/exclusive-a-major-french-bank-is-blocking-customers-from-using-coinbase</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wMmM3YmMyYjI3MWFiNTY2N2IyMjM0YTU0Mjg1OTI5ZS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wMmM3YmMyYjI3MWFiNTY2N2IyMjM0YTU0Mjg1OTI5ZS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 18:01:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Benjamin Pirus]]>
+            </dc:creator>
+            <category><![CDATA[Blockchain]]></category>
+            <category><![CDATA[Banks]]></category>
+            <category><![CDATA[Coinbase]]></category>
+            <category><![CDATA[Europe]]></category>
+            <category><![CDATA[France]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/exclusive-a-major-french-bank-is-blocking-customers-from-using-coinbase</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wMmM3YmMyYjI3MWFiNTY2N2IyMjM0YTU0Mjg1OTI5ZS5qcGc=.jpg"><p>Initial reports suggest that French bank BNP Paribas has blocked customers from transferring funds to Coinbase</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Options Volume Sets Record as BTC Miners Hit Breakeven Cost]]></title>
+            <link>https://cointelegraph.com/news/bitcoin-options-volume-sets-record-as-btc-miners-hit-breakeven-cost</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mZWE3NjZiYmZlMmViMWRmYzgyNDZlMmQ0NTk2YzlhZS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mZWE3NjZiYmZlMmViMWRmYzgyNDZlMmQ0NTk2YzlhZS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 17:05:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By William Suberg]]>
+            </dc:creator>
+            <category><![CDATA[Bitcoin]]></category>
+            <category><![CDATA[Investments]]></category>
+            <category><![CDATA[Bitcoin Price]]></category>
+            <category><![CDATA[Miners]]></category>
+            <category><![CDATA[Markets]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/bitcoin-options-volume-sets-record-as-btc-miners-hit-breakeven-cost</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mZWE3NjZiYmZlMmViMWRmYzgyNDZlMmQ0NTk2YzlhZS5qcGc=.jpg"><p>Bitcoin is now sitting at miner production cost as options volumes skyrocket to $200 million per day</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Circle Releases USDC APIs for Crypto Mass Adoption]]></title>
+            <link>https://cointelegraph.com/news/circle-releases-usdc-apis-for-crypto-mass-adoption</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMWVlN2MxMDVjOTEzM2Q5Y2I5MmNlMWMwYmE5NmQ3Mi5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMWVlN2MxMDVjOTEzM2Q5Y2I5MmNlMWMwYmE5NmQ3Mi5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 16:57:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Andrey Shevchenko]]>
+            </dc:creator>
+            <category><![CDATA[Business]]></category>
+            <category><![CDATA[Adoption]]></category>
+            <category><![CDATA[Stablecoin]]></category>
+            <category><![CDATA[Circle]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/circle-releases-usdc-apis-for-crypto-mass-adoption</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMWVlN2MxMDVjOTEzM2Q5Y2I5MmNlMWMwYmE5NmQ3Mi5qcGc=.jpg"><p>Circle’s consolidation around USDC is finally bearing fruits as it releases APIs targeted for mass adoption</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Tether Looks to Catch Up in DeFi With Aave Integration]]></title>
+            <link>https://cointelegraph.com/news/tether-looks-to-catch-up-in-defi-with-aave-integration</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xZTBhY2Y2YTc1MWU3Mjc4Yzg2ZDIxNmYyM2Q5MDNhNi5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xZTBhY2Y2YTc1MWU3Mjc4Yzg2ZDIxNmYyM2Q5MDNhNi5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 16:48:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Andrey Shevchenko]]>
+            </dc:creator>
+            <category><![CDATA[Business]]></category>
+            <category><![CDATA[Usdt]]></category>
+            <category><![CDATA[Tether]]></category>
+            <category><![CDATA[DeFi]]></category>
+            <category><![CDATA[Stablecoin]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/tether-looks-to-catch-up-in-defi-with-aave-integration</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8xZTBhY2Y2YTc1MWU3Mjc4Yzg2ZDIxNmYyM2Q5MDNhNi5qcGc=.jpg"><p>Tether is moving to provide an alternative to DeFi as it joins forces with Aave</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Eastern Caribbean Stock Exchange to Trial Tokenized Security Offerings]]></title>
+            <link>https://cointelegraph.com/news/eastern-caribbean-stock-exchange-to-trial-tokenized-security-offerings</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83YzM2ZTEyOWQzM2RmOTg4YWY1ZmY4ZmIzNGRmMjVlNC5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83YzM2ZTEyOWQzM2RmOTg4YWY1ZmY4ZmIzNGRmMjVlNC5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 16:41:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Samuel Haig]]>
+            </dc:creator>
+            <category><![CDATA[Altcoin]]></category>
+            <category><![CDATA[Central Bank]]></category>
+            <category><![CDATA[STO]]></category>
+            <category><![CDATA[Security]]></category>
+            <category><![CDATA[Tokens]]></category>
+            <category><![CDATA[Jamaica]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/eastern-caribbean-stock-exchange-to-trial-tokenized-security-offerings</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83YzM2ZTEyOWQzM2RmOTg4YWY1ZmY4ZmIzNGRmMjVlNC5qcGc=.jpg"><p>The digital asset trading platform will support BTC and ETH trading, and will be accessible to international investors</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Blockchain.​Com Now Offers Crypto Lending Service to All Users]]></title>
+            <link>https://cointelegraph.com/news/blockchaincom-now-offers-crypto-lending-service-to-all-users</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNDFhMTM3MzBiNzdhOTc1ZTZkN2NiYjE2Y2Q4NDc3YS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNDFhMTM3MzBiNzdhOTc1ZTZkN2NiYjE2Y2Q4NDc3YS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 15:13:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Helen Partz]]>
+            </dc:creator>
+            <category><![CDATA[Blockchain]]></category>
+            <category><![CDATA[Wallet]]></category>
+            <category><![CDATA[Lending]]></category>
+            <category><![CDATA[Loans]]></category>
+            <category><![CDATA[Cryptocurrencies]]></category>
+            <category><![CDATA[Stablecoin]]></category>
+            <category><![CDATA[Dollar]]></category>
+            <category><![CDATA[Paxos]]></category>
+            <category><![CDATA[Bitcoin]]></category>
+            <category><![CDATA[United Kingdom]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/blockchaincom-now-offers-crypto-lending-service-to-all-users</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNDFhMTM3MzBiNzdhOTc1ZTZkN2NiYjE2Y2Q4NDc3YS5qcGc=.jpg"><p>Blockchain.​com now allows retail users to borrow Paxos Standard stablecoin against Bitcoin</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Hester Peirce Says SEC Is a Partner to Crypto, as US States Chase Regulations]]></title>
+            <link>https://cointelegraph.com/news/hester-peirce-says-sec-is-a-partner-to-crypto-as-us-states-chase-regulations</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zNzhmNzRkNDZkMjA5ZDQ4MmY1MjRmZTRkYzQ4MjExMS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zNzhmNzRkNDZkMjA5ZDQ4MmY1MjRmZTRkYzQ4MjExMS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 15:05:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Kyle White]]>
+            </dc:creator>
+            <category><![CDATA[Bitcoin]]></category>
+            <category><![CDATA[SEC]]></category>
+            <category><![CDATA[Bitcoin Regulation]]></category>
+            <category><![CDATA[United States]]></category>
+            <category><![CDATA[Cryptocurrency Exchange]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/hester-peirce-says-sec-is-a-partner-to-crypto-as-us-states-chase-regulations</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zNzhmNzRkNDZkMjA5ZDQ4MmY1MjRmZTRkYzQ4MjExMS5qcGc=.jpg"><p>SEC commissioner lends an olive branch to the crypto community</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Genesis Mining Rejects $3.1 Million Suit From Former Contractor]]></title>
+            <link>https://cointelegraph.com/news/genesis-mining-rejects-31-million-suit-from-former-contractor</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jMDcwNGFhZWMxYzE3YTFiZjg1ZGMwNTlmMWQxM2U4NS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jMDcwNGFhZWMxYzE3YTFiZjg1ZGMwNTlmMWQxM2U4NS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 14:12:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Samuel Haig]]>
+            </dc:creator>
+            <category><![CDATA[Bitcoin]]></category>
+            <category><![CDATA[Mining]]></category>
+            <category><![CDATA[Court]]></category>
+            <category><![CDATA[Business]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/genesis-mining-rejects-31-million-suit-from-former-contractor</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jMDcwNGFhZWMxYzE3YTFiZjg1ZGMwNTlmMWQxM2U4NS5qcGc=.jpg"><p>Digital Capital claims that Genesis owes it more than $3.1 million in unpaid invoices, while Genesis is seeking to recoup all funds paid to the firm during their failed partnership</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Binance Publishes Apology Letter to Steem Community and Says It Has ‘Unvoted’]]></title>
+            <link>https://cointelegraph.com/news/binance-publishes-apology-letter-to-steemit-community-and-says-it-has-unvoted</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MmU4ZmQzMmVhNDVjYjdmNWRjMTM2MjEyMGUzMmEyOC5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MmU4ZmQzMmVhNDVjYjdmNWRjMTM2MjEyMGUzMmEyOC5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 13:16:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Marie Huillet ]]>
+            </dc:creator>
+            <category><![CDATA[Business]]></category>
+            <category><![CDATA[Steemit]]></category>
+            <category><![CDATA[Binance]]></category>
+            <category><![CDATA[Cryptocurrency Exchange]]></category>
+            <category><![CDATA[Tron]]></category>
+            <category><![CDATA[Justin Sun]]></category>
+            <category><![CDATA[Poloniex]]></category>
+            <category><![CDATA[Huobi]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/binance-publishes-apology-letter-to-steemit-community-and-says-it-has-unvoted</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84MmU4ZmQzMmVhNDVjYjdmNWRjMTM2MjEyMGUzMmEyOC5qcGc=.jpg"><p>Binance officially apologized to the Steem community following its involvement in a controversial hard fork initiated by Tron founder Justin Sun</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Startup Vega Tests Blockchain Focused on Derivatives Trading Products]]></title>
+            <link>https://cointelegraph.com/news/startup-vega-tests-blockchain-focused-on-derivatives-trading-products</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kOGY4ZDExNjgyYTVmOWIxMzUzMWQzODlkOGRkZjFkZS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kOGY4ZDExNjgyYTVmOWIxMzUzMWQzODlkOGRkZjFkZS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 13:02:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Benjamin Pirus]]>
+            </dc:creator>
+            <category><![CDATA[Blockchain]]></category>
+            <category><![CDATA[Tradings]]></category>
+            <category><![CDATA[Finance]]></category>
+            <category><![CDATA[Technology]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/startup-vega-tests-blockchain-focused-on-derivatives-trading-products</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kOGY4ZDExNjgyYTVmOWIxMzUzMWQzODlkOGRkZjFkZS5qcGc=.jpg"><p>Vega has fired up the testnet for its new protocol made for building decentralized derivatives trading products</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Crypto Lending Firm BlockFi Adds Support for Wire Transfers to Buy Crypto]]></title>
+            <link>https://cointelegraph.com/news/crypto-lending-firm-blockfi-adds-support-for-wire-transfers-to-buy-crypto</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jM2VmYTFjNmJjNmNhN2U5MTdhN2FiZDhiN2I4YjgyOS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jM2VmYTFjNmJjNmNhN2U5MTdhN2FiZDhiN2I4YjgyOS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 13:01:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Ana Alexandre]]>
+            </dc:creator>
+            <category><![CDATA[Business]]></category>
+            <category><![CDATA[Cryptocurrencies]]></category>
+            <category><![CDATA[Loans]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/crypto-lending-firm-blockfi-adds-support-for-wire-transfers-to-buy-crypto</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jM2VmYTFjNmJjNmNhN2U5MTdhN2FiZDhiN2I4YjgyOS5qcGc=.jpg"><p>BlockFi’s users can now send wire transfers to purchase digital currencies like Bitcoin, Ether and USD Coin</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Indonesia’s Commodities Regulator Approves Asia-Pacific Crypto Exchange]]></title>
+            <link>https://cointelegraph.com/news/indonesias-commodities-regulator-approves-asia-pacific-crypto-exchange</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jNTNkMjkwNTkyYjhhZTQ3ZjZlMTgwNzVhN2M5Nzg1NS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jNTNkMjkwNTkyYjhhZTQ3ZjZlMTgwNzVhN2M5Nzg1NS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 12:12:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Marie Huillet ]]>
+            </dc:creator>
+            <category><![CDATA[Regulation]]></category>
+            <category><![CDATA[Indonesia]]></category>
+            <category><![CDATA[Cryptocurrency Exchange]]></category>
+            <category><![CDATA[Singapore]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/indonesias-commodities-regulator-approves-asia-pacific-crypto-exchange</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jNTNkMjkwNTkyYjhhZTQ3ZjZlMTgwNzVhN2M5Nzg1NS5qcGc=.jpg"><p>Crypto exchange provider Zipmex has become one of the first platforms to seal regulatory approval in Indonesia</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Tezos Has Renewed Hope in 2020, but the Comeback Kid Is Still Untested]]></title>
+            <link>https://cointelegraph.com/news/tezos-has-renewed-hope-in-2020-but-the-comeback-kid-is-still-untested</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lMzllOTVlY2Q4YTZhMzEwNmE3OWE0OTA1Y2E5N2M3Yy5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lMzllOTVlY2Q4YTZhMzEwNmE3OWE0OTA1Y2E5N2M3Yy5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 11:44:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Liam Bussell]]>
+            </dc:creator>
+            <category><![CDATA[Technology]]></category>
+            <category><![CDATA[Tezos]]></category>
+            <category><![CDATA[STO]]></category>
+            <category><![CDATA[Adoption]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/tezos-has-renewed-hope-in-2020-but-the-comeback-kid-is-still-untested</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lMzllOTVlY2Q4YTZhMzEwNmE3OWE0OTA1Y2E5N2M3Yy5qcGc=.jpg"><p>Tezos performs better than most of the crypto market in 2020, but does it justify the hype?</p>]]>
+            </description>
+        </item>
+        <item>
+            <title><![CDATA[Bitcoin Price Reclaims $8K After Filling Final Lower CME Futures Gap]]></title>
+            <link>https://cointelegraph.com/news/bitcoin-price-reclaims-8k-after-filling-final-lower-cme-futures-gap</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jMGM1MDc5NjM0M2EwYjY4MDdjZWE0MDlmNzZjMzRiNS5qcGc=.jpg" medium="image"/>
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jMGM1MDc5NjM0M2EwYjY4MDdjZWE0MDlmNzZjMzRiNS5qcGc=.jpg" length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Mar 2020 11:32:00 +0000</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By William Suberg]]>
+            </dc:creator>
+            <category><![CDATA[Bitcoin]]></category>
+            <category><![CDATA[Bitcoin Price]]></category>
+            <category><![CDATA[Markets]]></category>
+            <category><![CDATA[Bitcoin Futures]]></category>
+            <category><![CDATA[CME]]></category>
+            <category><![CDATA[Market Update]]></category>
+            <guid isPermaLink="false">https://cointelegraph.com/news/bitcoin-price-reclaims-8k-after-filling-final-lower-cme-futures-gap</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jMGM1MDc5NjM0M2EwYjY4MDdjZWE0MDlmNzZjMzRiNS5qcGc=.jpg"><p>Bitcoin just filled the only lower-lying futures gap left in the market — the sole remaining one is at $11,800</p>]]>
+            </description>
+        </item>
+
+    </channel>
+</rss>
