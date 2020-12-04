@@ -1,4 +1,4 @@
-const { Feed } = require('feed');
+const { Feed } = require('feedx');
 const { URL } = require('url');
 // const request = require("request");
 const Entities = require('html-entities').AllHtmlEntities;

@@ -1,6 +1,6 @@
 # rss-rewriter
 
-```shell
+```sh
 npm i rss-rewriter
 ```
 
