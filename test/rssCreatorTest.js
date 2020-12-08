@@ -5,7 +5,19 @@ const { rewriter } = require('../index');
 
 describe('RSS Creator', () => {
   it('Google', async () => {
-    const google = fs.createReadStream('tests/google.rss');
+    const items = await rewriter({
+      source: 'https://www.criptonoticias.com/feed/',
+      site: 'https://pricecrypto.surge.sh/redirect',
+      title: 'Pricecrypto',
+      description: 'JJJJ',
+      format: 'json',
+      array: true,
+    });
+    // console.log(small(items));
+    assert.equal(items.length, 50);
+  }).timeout(15000);
+  it('Google', async () => {
+    const google = fs.createReadStream('test/google.rss');
     const items = await rewriter({
       source: google,
       site: 'https://pricecrypto.surge.sh/redirect',
@@ -18,7 +30,7 @@ describe('RSS Creator', () => {
     assert.equal(items.length, 8);
   });
   it('Cripto', async () => {
-    const google = fs.createReadStream('tests/feeder-cripto.rss');
+    const google = fs.createReadStream('test/feeder-cripto.rss');
     const items = await rewriter({
       source: google,
       site: 'https://pricecrypto.surge.sh/redirect',
@@ -27,11 +39,11 @@ describe('RSS Creator', () => {
       format: 'json',
       array: true,
     });
-    console.log(small(items));
+    // console.log(small(items));
     assert.equal(items.length, 10);
   });
   it('Cointelegraph', async () => {
-    const google = fs.createReadStream('tests/cointelegraph.rss');
+    const google = fs.createReadStream('test/cointelegraph.rss');
     const items = await rewriter({
       source: google,
       array: true,
@@ -44,7 +56,7 @@ describe('RSS Creator', () => {
     assert.equal(items.length, 30);
   });
   it('FeedInformer', async () => {
-    const google = fs.createReadStream('tests/feeder.rss');
+    const google = fs.createReadStream('test/feeder.rss');
     const items = await rewriter({
       source: google,
       array: true,
@@ -57,7 +69,7 @@ describe('RSS Creator', () => {
     assert.equal(items.length, 50);
   });
   it('Trends', async () => {
-    const google = fs.createReadStream('tests/trends.xml');
+    const google = fs.createReadStream('test/trends.xml');
     const items = await rewriter({
       source: google,
       array: true,

@@ -11,11 +11,15 @@ module.exports = {
   }) {
     if (!source) { throw new Error('Missing source url or stream'); }
     if (!site) { throw new Error('Missing destination site url'); }
-    let result;
+    let url = false;
     try {
-      result = await stream(new URL(source).href);
+      url = new URL(source).href;
     } catch (error) {
       console.info(error.message);
+    }
+    let result;
+    if (url) {
+      result = await stream(url);
     }
     const items = await feedparser(result || source);
     return rss({ items, site, ...rest });
